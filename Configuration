@@ -1,0 +1,8 @@
+# Telegram configuration
+
+BOT_ID = "bot5304093729:AAFfqUFBatkh2xIXYlzk-YdqpBwkKFv7M4Q"
+CHAT_ID = "@rileak"
+Telegram_url = "https://api.telegram.org/" + BOT_ID + "/sendMessage"
+
+# thingspeak configuuratio
+Thingspeak_url = "https://api.thingspeak.com/channels/1704436/feeds.json?api_key=EBPZ4WXS175B3AV8&results=2"
